@@ -1,0 +1,9 @@
+{
+  "name": "com.visionstudio.party",
+  "displayName": "party",
+  "version": "0.0.1",
+  "unity": "2022.3",
+  "description": "This is a new package.",
+  "keywords": [],
+  "dependencies": {}
+}
