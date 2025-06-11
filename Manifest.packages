@@ -1,0 +1,34 @@
+{
+  "gameModule": [
+    {
+      "id": "05kLbxns9z16Ke1EEjwT57",
+      "description": "这是一个成就系统组件库",
+      "name": "Achievement",
+      "author": "hansongyang",
+      "createTime": "2025-05-22T11:36:59.9904682+08:00",
+      "updateTime": "2025-05-22T11:36:59.9904682+08:00",
+      "latestDownloadUrl": "file:///D:/phpstudy_pro/WWW/10.6.4.28\\Achievement_1.0.0.unitypackage",
+      "latestVersion": "1.0.0"
+    },
+    {
+      "id": "vMOgb20XHmIQ9nr5DHgeul",
+      "description": "这是一个****组件库",
+      "name": "NewFeature1",
+      "author": "author",
+      "createTime": "2025-06-05T20:05:30.7650303+08:00",
+      "updateTime": "2025-06-05T20:05:30.7650303+08:00",
+      "latestDownloadUrl": "file:///D:/phpstudy_pro/WWW/10.6.4.28\\NewFeature1_1.0.0.unitypackage",
+      "latestVersion": "1.0.0"
+    },
+    {
+      "id": "gf9Jx1Sz0WWAJ7UP2ULf2U",
+      "description": "这是一个****组件库",
+      "name": "NewFeature",
+      "author": "author",
+      "createTime": "2025-06-06T19:07:25.926826+08:00",
+      "updateTime": "2025-06-06T19:07:25.926826+08:00",
+      "latestDownloadUrl": "ftp://10.6.4.28/YJ/NewFeature_1.0.0.unitypackage",
+      "latestVersion": "1.0.0"
+    }
+  ]
+}
